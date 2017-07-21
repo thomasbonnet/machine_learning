@@ -18,6 +18,31 @@ It goes from basic cases allowing to do the math by hand to present applications
 Well documented.
 
 
+## Tutorials
+* [Keras Tutorials](https://blog.keras.io/category/tutorials.html)
+* [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
+* [PyTorch Tutorials](http://pytorch.org/tutorials/index.html): in particular see the lstm tuto
+* [In Class Kaggle](https://inclass.kaggle.com/)
+
+
 ## Articles
 
-* [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278): brief survey of text classifier algorithms. 
+### Backpropagation
+
+* [http://colah.github.io/posts/2015-08-Backprop](http://colah.github.io/posts/2015-08-Backprop/): good introduction to the topic
+* [http://cs231n.github.io/optimization-2](http://cs231n.github.io/optimization-2/): more detailed version with examples
+
+### NLP
+
+#### Word2Vec
+* [skip-gram model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+
+#### Text Classifier
+
+* [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278): brief survey of text classifier algorithms.
+
+
+## MOOC
+
+* [udacity Deep Learning](https://classroom.udacity.com/courses/ud730): huge gap between lectures and assignments but assigments are very informative.
+
