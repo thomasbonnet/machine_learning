@@ -36,6 +36,7 @@ Well documented.
 
 #### Word2Vec
 * [skip-gram model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+* [TensorFlow tutorial](https://www.tensorflow.org/tutorials/word2vec)
 
 #### Text Classifier
 
